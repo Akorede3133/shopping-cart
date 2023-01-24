@@ -59,7 +59,7 @@ header nav {
 header .hero {
     height: calc(100vh - 100px);
     width: 100%;
-    background-image: url(images/hero-bcg\ copy.jpeg);
+    background-image: url('../images/hero-bcg\ copy.jpeg');
     background-position: center;
     background-size: cover;
 }
